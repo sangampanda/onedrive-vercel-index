@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'adnaP',
-      link: "",
+      link: "https://panda.bearblog.dev/",
     },
   ],
 
